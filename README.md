@@ -55,7 +55,7 @@ O objetivo é aplicar conceitos de **controle de versão**, **armazenamento segu
 
 ---
 
-
+📚 Feito por Letícia Montenegro 🔗 Perfil DIO: https://web.dio.me/users/leehmontenegro 🔗 LinkedIn: https://www.linkedin.com/in/leehmontenegro/ 💻 Projeto conceitual desenvolvido para o desafio DIO
 
 
 Se quiser, posso gerar o arquivo `README.md` automaticamente e te enviar em formato **.md ou .pdf** para você só subir no seu repositório.
